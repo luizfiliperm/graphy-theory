@@ -1,7 +1,5 @@
 package application;
 
-import entities.distance.Point;
-import services.DistanceCalculatorService;
 
 import java.util.Scanner;
 
@@ -22,7 +20,7 @@ public class Main {
                 DistanceApplication.run(sc);
                 break;
             case 1:
-                System.out.println("You selected option 1");
+                ShapeApplication.run(sc);
                 break;
             case 2:
                 System.out.println("Thanks for using our application!");
