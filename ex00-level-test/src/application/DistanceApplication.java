@@ -20,10 +20,10 @@ public class DistanceApplication {
 
     public static Point readPoint(Scanner sc){
         System.out.print("Enter the value of x: ");
-        float x = sc.nextFloat();
+        Double x = sc.nextDouble();
 
         System.out.print("Enter the value of y: ");
-        float y = sc.nextFloat();
+        Double y = sc.nextDouble();
 
         return new Point(x, y);
     }

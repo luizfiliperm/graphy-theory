@@ -2,30 +2,30 @@ package entities.distance;
 
 public class Point {
 
-    private Float x;
-    private Float y;
+    private Double x;
+    private Double y;
 
     public Point() {
     }
 
-    public Point(Float x, Float y) {
+    public Point(Double x, Double y) {
         this.x = x;
         this.y = y;
     }
 
-    public Float getX() {
+    public Double getX() {
         return x;
     }
 
-    public void setX(Float x) {
+    public void setX(Double x) {
         this.x = x;
     }
 
-    public Float getY() {
+    public Double getY() {
         return y;
     }
 
-    public void setY(Float y) {
+    public void setY(Double y) {
         this.y = y;
     }
 }
