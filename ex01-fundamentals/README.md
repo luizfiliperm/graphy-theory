@@ -12,7 +12,8 @@ This exercise contains solutions for the challenges presented in HACKATHON 01 be
 
 Consider the following graph and indicate what is requested
 
-IMAGE
+
+![graph proposed](https://github.com/luizfiliperm/graphy-theory/blob/main/ex01-fundamentals/hackathon-01/graph.png)
 
 1. Vertex List
 

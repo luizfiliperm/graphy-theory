@@ -8,7 +8,7 @@ The challenge is detailed in the previous section and their answers are detailed
 
 ## The Graph based on the previous table
 
-Image
+![house tree grahp](https://github.com/luizfiliperm/graphy-theory/blob/main/ex01-fundamentals/hackathon-02/house-tree-graph.png)
 
 ### 1 - List of Vertices
 
