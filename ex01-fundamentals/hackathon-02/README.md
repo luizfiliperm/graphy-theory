@@ -90,3 +90,7 @@ The challenge is detailed in the previous section and their answers are detailed
 ### 11 - Degree Sequence of the graph
 - Entry Degree: 0, 1, 1, 1, 1, 2, 1, 1, 2
 - Exit Degree: 1, 1, 3, 1, 1, 1, 1, 1, 0
+
+### Minimal and Maximum days to build the house
+
+- The minimal and maximum time are the same because the critical path remains at the same area
